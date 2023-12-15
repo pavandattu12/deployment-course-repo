@@ -1,4 +1,13 @@
 This is a simple text file
 
 Git Commands:
-git  
+git init <Name of the Repository>
+Cd <repo Name>
+Then you can create any file like notepad filename.txt or anything else
+echo "this is the next line in the file" >> file.txt -- Mac Terminal
+To upload to git:
+Git status -- shows all the files
+Git add . -- to add all the files
+If you want to add only single file then you can usr git add <filename>
+Git commit -m <"comments">
+Then you can use git status to check the committed and un committed files
