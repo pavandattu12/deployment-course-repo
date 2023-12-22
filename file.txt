@@ -11,3 +11,4 @@ Git add . -- to add all the files
 If you want to add only single file then you can usr git add <filename>
 Git commit -m <"comments">
 Then you can use git status to check the committed and un committed files
+Git add origin <url of the GitHub account> this command is used for the remote repository access
