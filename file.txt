@@ -13,4 +13,4 @@ Git commit -m <"comments">
 Then you can use git status to check the committed and un committed files
 Git add origin <url of the GitHub account> this command is used for the remote repository access
 
-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
+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
